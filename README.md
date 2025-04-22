@@ -28,3 +28,6 @@ The COVID-19 State-wise Tracker 🗺️ is a comprehensive data visualization an
 
 📚 Academic or data science projects
 
+https://github.com/user-attachments/assets/7137a2c2-1562-4200-aac5-9aedfdbf6506
+
+
